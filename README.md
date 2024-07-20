@@ -1,3 +1,4 @@
+# Description
 A multinomial logistic regression (or multinomial regression for short) is used when the outcome variable being predicted is nominal and has more than two categories that do not have a given rank or order. This model can be used with any number of independent variables that are categorical or continuous.
 
 # Hepatitis C Data Analysis
